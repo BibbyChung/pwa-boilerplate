@@ -1,0 +1,110 @@
+{
+    "name": "Album",
+    "scope": "/",
+    "display": "standalone",
+    "start_url": "/?source=pwa",
+    "short_name": "AlbumS",
+    "theme_color": "#000000",
+    "description": "Album Description....",
+    "orientation": "any",
+    "background_color": "#000000",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/e5860c38-ea4a-eb89-5777-158c7228d3be.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/2bf28b8e-0eee-86da-11e2-6f422188b74a.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/71b5eb43-2362-b8f9-d24f-062c348084eb.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/16141bb2-6051-d8eb-6e9c-08c635faff08.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/db88cc45-a5c2-b8b8-9655-f832312bb3b9.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/04b8b3e3-f773-7b80-ed21-f4deed67c7c0.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/7cc144b4-2624-7e27-1334-8ac18307f383.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/e6e2b375-7b83-2b37-c72b-5aae83c87cee.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/eae00bc0-2864-82e4-f401-ce92066e3884.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/37474e98-9d44-eebf-17b4-81ba0d06a081.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/15d3c494-c960-0507-88a1-a62af393437f.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/91110849-2ff8-605e-362b-93a317bac59b.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/c670234f-cea1-4818-67f3-3b10a1fadb30.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/f1f4b328-f49a-de7a-a5bf-881120056aea.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/2f7db408-fcf1-4f21-136c-f53e58792cb9.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/f194d72b-f4a5-3c7d-a05e-177511805201.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/607e687d-d85a-0bce-1266-ad5744a0b7a0.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/f850c779-47df-2b1b-0d75-1b049d7fbbb8.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ce80030f-28f1-f1ff-60bb-3824690f184f.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}
